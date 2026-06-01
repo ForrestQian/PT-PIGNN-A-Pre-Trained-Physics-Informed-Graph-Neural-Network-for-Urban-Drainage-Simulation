@@ -12,8 +12,6 @@ This repository publishes the **core research code** only:
 
 It does **not** include the original Kunshan/Changzhou sewer-network datasets, SWMM exports, trained checkpoints, or experiment artifacts. Those materials contain **operationally sensitive information** and cannot be released publicly. All hard-coded local load paths have been removed from the scripts; you must supply your own private data and set paths locally before running.
 
-Log messages, errors, and CLI help text in the code are in **English**.
-
 ---
 
 ## Repository Layout
